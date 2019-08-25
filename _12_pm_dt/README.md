@@ -7,4 +7,5 @@ pip install pydotplus
 
 dot.exe
 
+add 'C:\Program Files (x86)\Graphviz2.38\bin'
 
